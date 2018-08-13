@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	
+	
+}
+
+.bd-1{
+	font-family: "Helvetica";
+	font-size: 18px;
+	color: white;
+}
+
+.bd-2{
+	font-family: "Helvetica";
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.bd-3{
+	font-family: "Helvetica";
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#p-1{
+	font-family: "Helvetica";
+	font-size: 14px;
+}
