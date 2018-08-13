@@ -4,6 +4,15 @@ body{
 	
 }
 
+.BD{
+	background-image: url(../images/the-flatiron-building.png);
+	font-family: "Helvetica";
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+
 .bd-1{
 	font-family: "Helvetica";
 	font-size: 18px;
@@ -16,13 +25,27 @@ body{
 	font-weight: bold;
 }
 
-.bd-3{
+.bd-3, .bd-4, .bd-5, .bd-7, .bd-8{
 	font-family: "Helvetica";
 	font-size: 23px;
 	font-weight: bold;
 }
 
-#p-1{
+#p-1, #p-2, #p-3{
 	font-family: "Helvetica";
 	font-size: 14px;
+}
+.bd-5{
+	background-image: url(../images/the-flatiron-building.png);
+	font-family: "Helvetica";
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+}
+
+.Footer{
+	font-family: "Helvetica";
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
 }
